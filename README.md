@@ -3,7 +3,7 @@
 ### A sequence to sequence model that can translate English into Mandarin
 
 ## Task
-Build a sequence to sequence model with advanced machine learning techniques like attention, schedule sampling, and beam search to translate English into Mandarin
+Build a sequence to sequence model with advanced machine learning techniques like attention, schedule sampling, and beam search to translate English into Mandarin.
 
 ### Run on Colab (cannot save your own version)
 * Access the notebook to run the codes: https://colab.research.google.com/drive/1oYlVsohvHi9zX4cgKEUqLCpKz77sPhMG?usp=sharing
