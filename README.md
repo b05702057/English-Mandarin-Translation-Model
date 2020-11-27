@@ -10,5 +10,5 @@ Build a sequence to sequence model with advanced machine learning techniques lik
 * Access the notebook to run the codes: https://colab.research.google.com/drive/1GLqU9CvoQypZYw2XtFIoN3MephRN3nkr?usp=sharing
 
 ### Run on Colab (can save your own version)
-* Run this command: git clone <https://github.com/b05702057/Network-Compression.git>
+* Run this command: git clone <https://github.com/b05702057/English-Mandarin-Translation-Model.git>
 * Upload the .ipynb files to your google drive and open it with colab
